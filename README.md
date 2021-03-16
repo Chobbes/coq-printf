@@ -1,4 +1,4 @@
-# cop-printf
+# coq-printf
 
 Implementation of `sprintf` and `sscanf` for Coq
 
